@@ -1,0 +1,80 @@
+Public IP Address: 103.148.180.135Processor: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System: Windows 10.0.19042
+Machine: AMD64
+Hostname: Asmi
+Private IP Address: 192.168.56.1
+Public IP Address: 103.148.180.135Processor: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System: Windows 10.0.19042
+Machine: AMD64
+Hostname: Asmi
+Private IP Address: 192.168.56.1
+Public IP Address: 103.148.180.26Processor: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System: Windows 10.0.19042
+Machine: AMD64
+Hostname: Asmi
+Private IP Address: 192.168.56.1
+Public IP Address: 103.148.180.26Processor: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System: Windows 10.0.19042
+Machine: AMD64
+Hostname: Asmi
+Private IP Address: 192.168.56.1
+Public IP Address: 103.148.180.26Processor: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System: Windows 10.0.19042
+Machine: AMD64
+Hostname: Asmi
+Private IP Address: 192.168.56.1
+Public IP Address: 103.148.180.26Processor: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System: Windows 10.0.19042
+Machine: AMD64
+Hostname: Asmi
+Private IP Address: 192.168.56.1
+Public IP Address: 182.72.39.10Processor: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System: Windows 10.0.19042
+Machine: AMD64
+Hostname: Asmi
+Private IP Address: 192.168.56.1
+Public IP Address: 182.72.39.10Processor: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System: Windows 10.0.19042
+Machine: AMD64
+Hostname: Asmi
+Private IP Address: 192.168.56.1
+Public IP Address: 182.72.39.10Processor: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System: Windows 10.0.19042
+Machine: AMD64
+Hostname: Asmi
+Private IP Address: 192.168.56.1
+Public IP Address: 182.72.39.10Processor: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System: Windows 10.0.19042
+Machine: AMD64
+Hostname: Asmi
+Private IP Address: 192.168.56.1
+Public IP Address: 182.72.39.10Processor: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System: Windows 10.0.19042
+Machine: AMD64
+Hostname: Asmi
+Private IP Address: 192.168.56.1
+Public IP Address: 182.72.39.10Processor: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System: Windows 10.0.19042
+Machine: AMD64
+Hostname: Asmi
+Private IP Address: 192.168.56.1
+Public IP Address: 182.72.39.10Processor: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System: Windows 10.0.19042
+Machine: AMD64
+Hostname: Asmi
+Private IP Address: 192.168.56.1
+Public IP Address: 182.72.39.10Processor: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System: Windows 10.0.19042
+Machine: AMD64
+Hostname: Asmi
+Private IP Address: 192.168.56.1
+Public IP Address: 182.72.39.10Processor: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System: Windows 10.0.19042
+Machine: AMD64
+Hostname: Asmi
+Private IP Address: 192.168.56.1
+Public IP Address: 182.72.39.10Processor: Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+System: Windows 10.0.19042
+Machine: AMD64
+Hostname: Asmi
+Private IP Address: 192.168.56.1

